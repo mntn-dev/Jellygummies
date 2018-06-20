@@ -6,7 +6,7 @@ Jellygummies.exe
 
 Sam Lyon's <a href="https://www.jellygummies.com/" target="_blank">Jellygummies</a> on the Windows Desktop
 
-* left double-click changes image
+* left double-click changes image (includes 18)
 * mouse-wheel (up/down) changes transparency
 * right-click ends
 
