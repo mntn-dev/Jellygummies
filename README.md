@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/mntn-dev/mntn-dev.github.io/master/_/jellygummies-windows-desktop.gif"/>
 
-Jellygummies.exe
-================
+Jellygummies
+============
 
 Sam Lyon's <a href="https://www.jellygummies.com/" target="_blank">Jellygummies</a> on the Windows Desktop
 
