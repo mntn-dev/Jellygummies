@@ -10,4 +10,5 @@ Sam Lyon's <a href="https://www.jellygummies.com/" target="_blank">Jellygummies<
 * right-click ends
 
 
-<code>v0.1/Jun 2018<br/>Download: <a href="https://github.com/mntn-dev/Jellygummies/raw/master/Jellygummies.zip" target="_blank">Jellygummies.zip</a></code>
+<code>v0.1/Jun 2018<br/>
+Download: <a href="https://github.com/mntn-dev/Jellygummies/raw/master/Jellygummies.zip" target="_blank">Jellygummies.zip</a></code>
