@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/mntn-dev/mntn-dev.github.io/master/Jellygummies/exe.png"/>
 
-Jellygummies
-============
+Jellygummies.exe
+================
 <pre>
 *---------------------------*
 / Sam Lyon's <a href="https://www.jellygummies.com" target="_blank">Jellygummies</a>   /
