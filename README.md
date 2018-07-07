@@ -22,6 +22,7 @@ current screen gif animation to load.
 <em>.jgx</em>, run Jellygummies.exe 'as admin')
   
 📦 <a href="https://github.com/mntn-dev/Jellygummies/raw/master/Jellygummies.zip" target="_blank">Jellygummies.zip</a>
+💻 <a href="https://mntn-dev.github.io/Jellygummies" target="_blank">@github.io</a>
 
 </pre>
 
