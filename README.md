@@ -21,8 +21,8 @@ v0.2 -- July 2018
 
 ---
 
-.JGX files include <a href="https://github.com/mntn-dev/Jellygummies/tree/master/juicy_models" target="_blank">juicy models</a>, just drag&drop 'em into .exe or
-current screen gif animation to load.
+.JGX files include <a href="https://github.com/mntn-dev/Jellygummies/tree/master/juicy_models" target="_blank">juicy models</a>, just drag&drop
+'em into .exe or current screen gif animation to load.
 
 (Note: to assign a filetype icon to
 <em>.jgx</em>, run Jellygummies.exe 'as admin')
